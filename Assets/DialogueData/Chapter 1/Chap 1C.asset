@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 1C
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Let\u2019s get inside this house"
+  - Why the house looks haunted though?
+  - "No, it\u2019s not. Besides, it\u2019s still broad daylight. What is it that
+    you afraid of?"
+  - What if someone is in there?
+  - "Calm down, you\u2019re overthinking it. Everything is gonna be fine"
+  - "Oh shoot, I can\u2019t open the gate"
+  - "OH! I know what to do. I\u2019m gonna climb up the gate. You guys wait here."
+  - '*Kyle immediately climbed over the tall fence. After he climbed, he landed inside
+    an empty house.*'
+  - '*Suddenly he heard the sound of something sliding from behind. Kyle looked back
+    and found that the fence could be shifted.*'
+  - '*Ryan was the one who moved the fence. After the fence was opened,*'
+  - '*Kyle''s face was met with the biggest expression of disappointment by his friends.*'
+  - Dumbass
+  responses: []
+  faceExpressions:
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 6842d5d363ca9fc4c9596c7117482683, type: 3}
+  - {fileID: 21300000, guid: e75d694600546464d8444daa458b0841, type: 3}
+  - {fileID: 21300000, guid: 6842d5d363ca9fc4c9596c7117482683, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: 33091eaf328a5b949a9fb370c8f3fd48, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: c985bd7a302bc7f4bb041671734143a6, type: 3}
+  - {fileID: 21300000, guid: c985bd7a302bc7f4bb041671734143a6, type: 3}
+  - {fileID: 21300000, guid: c985bd7a302bc7f4bb041671734143a6, type: 3}
+  - {fileID: 21300000, guid: c985bd7a302bc7f4bb041671734143a6, type: 3}
+  - {fileID: 21300000, guid: f002f65d5cb97f944853bdd5cc7d5cb2, type: 3}
+  sceneImages: []
+  sceneVideos: []
+  nextSceneName: Chapter 1-2

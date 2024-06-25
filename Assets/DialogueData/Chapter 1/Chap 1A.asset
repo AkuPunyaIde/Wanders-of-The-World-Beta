@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 1A
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Geez, did you fall asleep again? '
+  - Ugh, give me a break
+  - 'Oh, come on, you''re doing it again. '
+  - "Oh yeah, by the way, me, Rani, and Harris are going to explore some abandoned
+    houses. \r"
+  - "Do you wanna come with us? You\u2019ve always like to explore abandoned places,
+    right?"
+  - "HUH? FOR REAL? LET\u2019S GOOOO THEN WOOOHOOOOOO "
+  - "Woah, hey relax! Don\u2019t leave me behind!"
+  - There you are. Why do you get worked up all of a sudden. What's gotten into you?
+  - Yeah, I barely see you act like this. You usually lazy like a sloth
+  - "Well, if you guys hadn\u2019t mentioned anything about exploring, I wouldn\u2019t
+    have had this much fun, you know? Hehe"
+  - '*breathing* '
+  - oh my god, Kyle, you run freaking fast calm down
+  - Dramatic.
+  - "OH COME ON!\r"
+  - "*sigh* Anyways, Let\u2019s roll.\r"
+  responses: []
+  faceExpressions:
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  - {fileID: 21300000, guid: 33091eaf328a5b949a9fb370c8f3fd48, type: 3}
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  - {fileID: 21300000, guid: c7d37cc3cb35bdd4fa024bb9d8284d64, type: 3}
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: 67d71f8df04c53140a79985f68b428b7, type: 3}
+  - {fileID: 21300000, guid: 0caef53e2bfc99b4cacd80250a858119, type: 3}
+  - {fileID: 21300000, guid: f002f65d5cb97f944853bdd5cc7d5cb2, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: 67d71f8df04c53140a79985f68b428b7, type: 3}
+  - {fileID: 21300000, guid: 67d71f8df04c53140a79985f68b428b7, type: 3}
+  - {fileID: 21300000, guid: e75d694600546464d8444daa458b0841, type: 3}
+  - {fileID: 21300000, guid: 67d71f8df04c53140a79985f68b428b7, type: 3}
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  sceneImages:
+  - {fileID: 21300000, guid: 407f4a50ac37ba548a9374f316e7b0e5, type: 3}
+  - {fileID: 21300000, guid: 407f4a50ac37ba548a9374f316e7b0e5, type: 3}
+  - {fileID: 21300000, guid: 407f4a50ac37ba548a9374f316e7b0e5, type: 3}
+  - {fileID: 21300000, guid: 407f4a50ac37ba548a9374f316e7b0e5, type: 3}
+  - {fileID: 21300000, guid: 407f4a50ac37ba548a9374f316e7b0e5, type: 3}
+  - {fileID: 21300000, guid: 407f4a50ac37ba548a9374f316e7b0e5, type: 3}
+  - {fileID: 21300000, guid: 407f4a50ac37ba548a9374f316e7b0e5, type: 3}
+  - {fileID: 21300000, guid: 65f8518b6da547a42b5ad48e2d4fd876, type: 3}
+  - {fileID: 21300000, guid: 65f8518b6da547a42b5ad48e2d4fd876, type: 3}
+  - {fileID: 21300000, guid: 65f8518b6da547a42b5ad48e2d4fd876, type: 3}
+  - {fileID: 21300000, guid: 65f8518b6da547a42b5ad48e2d4fd876, type: 3}
+  - {fileID: 21300000, guid: 65f8518b6da547a42b5ad48e2d4fd876, type: 3}
+  - {fileID: 21300000, guid: 65f8518b6da547a42b5ad48e2d4fd876, type: 3}
+  - {fileID: 21300000, guid: 65f8518b6da547a42b5ad48e2d4fd876, type: 3}
+  - {fileID: 21300000, guid: 65f8518b6da547a42b5ad48e2d4fd876, type: 3}
+  sceneVideos: []
+  nextSceneName: 

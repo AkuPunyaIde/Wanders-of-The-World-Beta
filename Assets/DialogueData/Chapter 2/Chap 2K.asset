@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 2K
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'This magazine looks old enough. Not to mention, the color is worn out. '
+  - Come to think of it, finding an used magazine in abandoned house is actually
+    really cool.
+  - I like the bike though. It must be very hard to look for that kind of bike today.
+  responses: []
+  faceExpressions: []
+  sceneImages:
+  - {fileID: 21300000, guid: b23e2a1c9e8e32a4ba93b48981bd6676, type: 3}
+  - {fileID: 21300000, guid: b23e2a1c9e8e32a4ba93b48981bd6676, type: 3}
+  - {fileID: 21300000, guid: b23e2a1c9e8e32a4ba93b48981bd6676, type: 3}
+  sceneVideos: []
+  nextSceneName: 

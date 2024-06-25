@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 1E
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '*Bonk*'
+  - Kyle? are you okay?
+  - "Yeah? what\u2019s up?"
+  - Are you sure? You look zoned out earlier
+  - "Umm I\u2019m fine. Anyways, let\u2019s go home. It\u2019s getting late"
+  responses: []
+  faceExpressions:
+  - {fileID: 21300000, guid: c985bd7a302bc7f4bb041671734143a6, type: 3}
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: e75d694600546464d8444daa458b0841, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  sceneImages:
+  - {fileID: 21300000, guid: 9089b3620c4b9254a8eec8362df4989a, type: 3}
+  sceneVideos: []
+  nextSceneName: Chapter 1-4

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 3E
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Soo, you\u2019re Maggie, right?"
+  - "Yes, what\u2019s up?"
+  - What do you do for living?
+  - Oh, I'm just a motorbike racer who loves exploring this planet! It's a hobby
+    I've enjoyed doing for a long time
+  - 'There are so many things that can be found in here. '
+  - Yesterday, I was strolling around the junkyard and guess what? I GOT THIS SICK-LOOKING
+    BOOTS!
+  - "It\u2019s not just the boots. There were also TVs, console game, a huge sofa,
+    an analog camera, and many more!"
+  - 'But out of all that, I''ll never forget the moment when I sat on the sofa atop
+    the garbage heap, enjoying the sight of the moon '
+  - and other planets decorating the sky. That's the most beautiful moment I'll never
+    forget.
+  - 'I also got to talk with the people who were scavenging the junkyard. They were
+    nice. The next day, I went biking to the mining alone '
+  - and recklessly storm the place. I was racing from the surface to the rabbit hole
+    and then I go back again without getting arrested by the security haha!
+  - It was awesome!
+  - "At least my trip didn\u2019t go to waste because I stole their gold MUEHEHEHE.
+    It's good enough to buy another motorcycle."
+  - So yeah, I just go around here and there to kill the time. There's plenty to
+    enjoy as if there's something hidden in this world
+  - and your instinct tells you to uncover the secrets behind it.
+  - This world is full of wonders, you know?
+  - "Wow, that\u2019s pretty cool. I wish I could be like you because I love to explore
+    too."
+  - "OH? you\u2019re into exploring too??"
+  - "Yeah, but it's just\u2026"
+  - 'Earth is where I hang out and explore. I still don''t know Mars well enough.
+    I just got here out of nowhere. '
+  - 'It feels like I''m playing in my dreams, but it''s all too real. '
+  - I also miss my mom and dad.
+  - ............
+  - "Don\u2019t worry, Kyle. You still have me! I know we haven't really gotten to
+    know each other yet, but you'll get to know me better as long "
+  - "as we're still friends. Now, let's make memories together while you\u2019re
+    here."
+  - Thanks, Maggie.
+  - Now hold tight
+  - Huh? why?
+  - '*She hits the gas with full excitement*'
+  - YEEEHAAAAWWWWWW!!!!
+  - WOAAAAAAAAAAAHHHH
+  responses: []
+  faceExpressions:
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: 33091eaf328a5b949a9fb370c8f3fd48, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 33091eaf328a5b949a9fb370c8f3fd48, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: c985bd7a302bc7f4bb041671734143a6, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: 33091eaf328a5b949a9fb370c8f3fd48, type: 3}
+  - {fileID: 21300000, guid: c985bd7a302bc7f4bb041671734143a6, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: 33091eaf328a5b949a9fb370c8f3fd48, type: 3}
+  sceneImages: []
+  sceneVideos: []
+  nextSceneName: Chapter 3-3

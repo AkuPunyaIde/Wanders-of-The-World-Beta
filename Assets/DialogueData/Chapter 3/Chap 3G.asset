@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 3G
+  m_EditorClassIdentifier: 
+  dialogue:
+  - That was awesome!
+  - See? I told you. This place is indeed really fun but there will be more places
+    that are so much fun than this one
+  - "But I still don\u2019t know what I\u2019m gonna do with this bottle that I found
+    earlier"
+  - Hmmm OH I KNOW!
+  - "There\u2019s someone that I know who owns a shop where you can donate your goods.
+    I think you can take the bottle to the shop so it won\u2019t go in vain."
+  - "Oooh, sounds good. Let\u2019s go there"
+  - Hello Mr. Jenkins!
+  - Oh, Hi Maggie, welcome! It seems you bring your friend over here, yes?
+  - Yes sir, my friend happens to want to donate thisold bottle to you. He found
+    it in the lake while he was fishing.
+  - Oh is that so? Wait a second, let me get my glasses first
+  - "Wow, you\u2019re very lucky today, kid"
+  - Huh? What kind of bottle is it, sir?
+  - This is a leftover bottle from a World War, dating back decades. The engravings
+    are still visible even though it's covered in rust. It's very rare.
+  - So, are you sure you want to donate this bottle?
+  - Yes, sir, because I don't know where else to take it. It would be such a waste
+    to throw it away, so I thought I'd donate it to you instead.
+  - "Oooh alright, if you say so, kid. I\u2019ll take it."
+  - Oh by the way, I got something for you
+  - Earlier, some man left a torn photo with me and said it was for a boy wearing
+    a bucket hat. I think you are the boy.
+  - A photo?
+  - '*"Hey kiddo, it''s been a while since we last met. If you''re reading this,
+    I want you to know that you''re a smart, strong, and amazing kid.*'
+  - "*I'm proud of you, buddy. Can't believe it's been three years already. You've
+    gro-\u201D*"
+  - If I may ask, do you know where this man is going to after he stopped by here?
+  - As far as I know, this man went to the north side of Kalimakan forest.. It just
+    happened in the blink of an eye when I was about to ask him.
+  - "Very interesting, I feel like there\u2019s something deeper than that, isn\u2019t
+    it?"
+  - "I think so, I want to get to know more about this torn photo. There\u2019s something
+    fishy from this photo and I will find out."
+  - Ooooooh I sense an adventure right here :3
+  - Okay then, thank you for the heads up, Mr. Jenkins. Maggie and I will head out
+    soon. See you!
+  - Goodbye Mr. Jenkins!
+  - See you later kids, I hope everything goes well on your journey, kid
+  - Mhm!
+  responses: []
+  faceExpressions:
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: 33091eaf328a5b949a9fb370c8f3fd48, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: a6743b40dc2accb41baeb91f8f075b06, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: 7973454d958e898458520871f5a480d0, type: 3}
+  - {fileID: 21300000, guid: 458e0637f763c8545846b31d58f3eec2, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  sceneImages: []
+  sceneVideos: []
+  nextSceneName: 

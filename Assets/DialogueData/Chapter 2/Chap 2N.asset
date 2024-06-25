@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 2N
+  m_EditorClassIdentifier: 
+  dialogue:
+  - This photo was taken when my mom and I went to visit Dad at the hospital. Dad
+    said he had to learn how to walk again on the Earth's surface
+  - after having too much fun moonwalking in space. By the time Dad got to meet my
+    mom and me, he was walking quite jumpily like a rabbit.
+  responses: []
+  faceExpressions: []
+  sceneImages:
+  - {fileID: 21300000, guid: 89fa1ed3de912e94b9f07183dedbb042, type: 3}
+  - {fileID: 21300000, guid: 89fa1ed3de912e94b9f07183dedbb042, type: 3}
+  sceneVideos: []
+  nextSceneName: 

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 2I
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Alright then, If you\u2019re still here being silent, I don\u2019t have problem
+    with that. Let me know if you want to talk. I\u2019ll be here."
+  - "Umm how\u2019s your day going, dad?"
+  - "I\u2019m fine. How about you, Kyle?"
+  - "I\u2019m fine too, dad"
+  - Oh how was your school today?
+  - It was good. Plus some assignments as usual
+  - What kind of assignments?
+  - They are Indonesian language study and mathematics
+  - Can you do the assignments?
+  - Yes, I can.
+  - "oh, that\u2019s good to know. Great!"
+  - Umm, dad, can I ask you something?
+  - Oh? What is it, Kyle?
+  - "Ummm if you don\u2019t mind me asking, why did you want to marry with mom?"
+  - The reason I married your mom is because I want to ease her burden.
+  - "I\u2019m pretty sure you\u2019re aware that your mom\u2019s field of job is
+    not a piece of cake. "
+  - "She\u2019s the backbone who\u2019s working tirelessly to support this family,
+    especially you."
+  - "I was planning to replace your mom\u2019s role so that she could have a better
+    life and not be sad about someone she cares about."
+  - "However, your mom still insist to continue on working because she\u2019s already
+    in that position. So, what else can I do"
+  - "Oh, it\u2019s already 8 PM. Go back inside the house, Kyle. It\u2019s getting
+    late."
+  - Yes, dad.
+  - Kyle
+  - "I\u2019m sorry for what happened earlier in the dining room. I didn\u2019t mean
+    to scare you. I just got carried away by my emotions of what your mom said."
+  responses: []
+  faceExpressions:
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  - {fileID: 21300000, guid: 72e6fab6891606f45b1dd8969c6fd1cd, type: 3}
+  sceneImages:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  sceneVideos: []
+  nextSceneName: 

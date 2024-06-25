@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31fcfcaf897c44b488a2c974713f4f08, type: 3}
+  m_Name: Chap 1D
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Guys! Look what I found!
+  - Wow, I wanna see it!
+  - Dang, that magazine looks quite old. Can I see it?
+  - Sure, here you go.
+  - This place is scary
+  - "Oh, cut the crap. You\u2019re scaring us"
+  - "Ughhh, I still don\u2019t get why Kyle likes picking up junk from abandoned
+    houses? It\u2019s gross, ewww"
+  - Ryan, come take a look at this figurine that I found!
+  - "Oh, cool but sorry I don\u2019t wanna touch junk stuff"
+  - Hahaha whatever you say bro
+  - "I\u2019m taking them home"
+  - "Huh? Are you serious? But they\u2019re dirty"
+  - "I\u2019ve just cleaned them. Don\u2019t worry"
+  - Geez, Kyle, you're something else
+  - "Anyways, let\u2019s get out of here"
+  responses: []
+  faceExpressions:
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: 0caef53e2bfc99b4cacd80250a858119, type: 3}
+  - {fileID: 21300000, guid: e0a889d60b7ca8b4c9f1aefc25c2f0ab, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: 6842d5d363ca9fc4c9596c7117482683, type: 3}
+  - {fileID: 21300000, guid: 95b1868bf88e2284bb71a61fb8c9701d, type: 3}
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  - {fileID: 21300000, guid: d94d167de1ea14d43b3051e7d22bc478, type: 3}
+  - {fileID: 21300000, guid: c3f550324bd85e646b1855fd6ecf7430, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  - {fileID: 21300000, guid: d5adac4694f31fb48af44e2a6fd35c8e, type: 3}
+  sceneImages: []
+  sceneVideos: []
+  nextSceneName: 
